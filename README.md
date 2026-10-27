@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="logo.png" alt="notepad-quick logo" width="400">
+  <img src="notepad-quick logo.png" alt="notepad-quick logo" width="400">
 </p>
-
-# notepad-quick
 
 `notepad-quick` is a free, open-source launcher for Notepad instances.
 
